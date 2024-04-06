@@ -1,2 +1,1 @@
-#TV-Channel-Lists
-A simple website that fetches and lets you sort JSON data from various TV channels and programs.
+A simple website that fetches JSON data from various TV channels and lets you sort the TV programs based of air time.
